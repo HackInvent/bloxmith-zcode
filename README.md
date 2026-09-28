@@ -10,8 +10,6 @@ Verified BloxSmith versions: **1.0.9** (bundled-block tests; see [test evidence]
 
 [![Zcode — violet pixel-art terminal module with directory, instruction and session symbols](media/thumbnail.webp)](media/cover.png)
 
-*Concept illustration of the block's function, not a Studio screenshot. [Artwork and generation prompt](media/README.md).*
-
 Run the local **Zcode agent**, with the same workflow pattern as the Codex block:
 named inputs, one instruction per output, a working directory and an optional
 persistent session. The block launches the agent, **not the desktop UI**.
